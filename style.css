@@ -287,7 +287,7 @@
 	.portfolio-item:hover .portfolio-details h2 a, .dt-sc-icon-content:hover h4, .dt-sc-team:hover .team-detail > h5, .receipe-slider:hover .receipe-details h2 a, .catelog-menu:hover h5 a, .reply > a:hover, .post-meta p span,
 	.dt-sc-icon-content.type2:hover h5,  .receipe-details .post-meta p span, .receipe-details .post-meta p.date, .receipe-details .post-meta p a, .dt-sc-icon-content.type1:hover h5, .contact-info ul li a { color: #d7767b; }
 	
-	.news-letter .mailchimp-form .dt-sc-button { background: #d7767b; }
+	.news-letter .mailchimp-form .dt-sc-button { background: #3a9016; }
 	
 	.mailchimp-form input[type="email"], .enquiry-form textarea, .enquiry-form input { background: #ffffff; }
 	
@@ -474,19 +474,19 @@
 	
 	.main-title { position: relative; text-align: center; width: 100%; padding:75px 0;}	
 	.main-title h2 { font-size: 40px; margin-bottom: 15px; font-weight:800;}	
-	.main-title p { display: inline-block; font-size: 40px; width:100%; position:relative; font-weight:500;}	
+	.main-title p { display: inline-block; font-size: 45px; width:100%; position:relative; font-weight:500;}	
 	.main-title > p:before, .main-title > p:after { border-top: 1px solid #d7767b; box-shadow: 0 0 1px 0 rgba(255, 255, 255, 0.3); content: ""; position: absolute; width: 23%;}	
 	.main-title > p:before { left: 0; top: 15px;}	
 	.main-title > p:after { right: 0; top: 15px;}
 	
 	.welcome-text { margin-bottom: 90px;}	
 	.welcome-text h3 { float: left; font-size: 24px; font-weight: 400; line-height: 20px; margin-bottom: 60px; width: 100%;}	
-	.welcome-text p { float: left; font-size: 18px; font-weight: 300; margin-bottom: 40px; width: 100%;}	
+	.welcome-text p { float: left; font-size: 20px; font-weight: 300; margin-bottom: 40px; width: 100%;}	
 	.welcome-text .icecone { background: url("images/celular.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); display: inline-block; height: 383px; width: 100%;}	
 	.welcome-text-right { float: left; position: relative; width: 100%;}	
-	.welcome-text .welcome-text-right p { font-size: 14px; font-weight: 400;}	
+	.welcome-text .welcome-text-right p { font-size: 20px; font-weight: 400;}	
 	.welcome-text-right > ul { float: left; width: 100%;}	
-	.welcome-text-right ul li { float: left; font-size: 14px; font-weight: 400; line-height: 28px; width: 100%;}	
+	.welcome-text-right ul li { float: left; font-size: 16px; font-weight: 400; line-height: 28px; width: 100%;}	
 	.welcome-text-right li:before { content: ""; font-family: fontawesome; margin-right: 10px;}	
 	.welcome-text-detail { float: left; margin-bottom: 50px; position: relative; width: 100%; text-align:center;}	
 	.welcome-text-detail > h3 { float: left; margin-bottom: 80px; font-size: 24px; font-weight: 400; line-height: 20px; width: 100%;}
@@ -629,7 +629,7 @@
 	.dt-sc-icon-details { float: left; padding-left: 25px; width: 100%; text-align:left;}	
 	.dt-sc-icon-content .dt-sc-icon-details span { float: left; font-family: fontawesome; position: relative; width: 100%;}	
 	.dt-sc-icon-content .dt-sc-icon-details h5 { display: block; float: left; font-size: 16px; font-weight: 600; line-height: 28px; margin-bottom:10px;}	
-	.dt-sc-icon-content .dt-sc-icon-details p { display: block; float: left; margin:0; font-size: 14px; font-weight: 400; width: 100%;}
+	.dt-sc-icon-content .dt-sc-icon-details p { display: block; float: left; margin:0; font-size: 16px; font-weight: 400; width: 100%;}
 	
 	/*----*****---- << Special >> ----*****----*/
 	
@@ -667,7 +667,7 @@
 	
 	.dt-sc-icon-content { float: left; left: 0; margin: 0 auto; position: relative; right: 0; width: 100%;}	
 	.dt-sc-icon-content h4 { font-size: 20px; font-weight: 800; line-height: 20px; text-transform:capitalize;}	
-	.dt-sc-icon-content > p { font-size: 13px; line-height: 22px; font-weight: 500;}
+	.dt-sc-icon-content > p { font-size: 16px; line-height: 22px; font-weight: 500;}
 	
 	.news-letter { margin-bottom:70px; box-shadow:none;}	
 	.news-letter .newsletter-text { color: #f5f3e3; float: left; font-size: 16px; font-weight: 400; line-height: 30px; margin: 0 0 20px; text-align: center; width: 100%;}	
@@ -959,12 +959,12 @@
 	}
 	/* Apply only for Ie9 and Ie10 */
 	#search-form .dt-sc-button{ line-height:20px\9\0;}	
-	#search-form .dt-sc-button:hover { background: #9cd5ce; box-shadow: none;}
+	#search-form .dt-sc-button:hover { background: #3a9016; box-shadow: none;}
 	
 	/*----*****---- << Contact >> ----*****----*/
 	
 	.intro-text { display: inline-block; margin-bottom: 50px; position: relative; text-align: center; width: 100%;}	
-	.intro-text > p { display: inline-block; font-size: 14px; font-weight: 500; line-height: 24px; margin-bottom: 50px;}
+	.intro-text > p { display: inline-block; font-size: 17px; font-weight: 500; line-height: 24px; margin-bottom: 50px;}
 	
 	.light { float: left; margin-bottom: 30px; width: 100%;}
 	
